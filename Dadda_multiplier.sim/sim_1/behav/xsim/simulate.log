@@ -1,0 +1,28 @@
+Time resolution is 1 ps
+PASS: A=0 B=0 | P=0
+PASS: A=1 B=1 | P=1
+PASS: A=15 B=0 | P=0
+PASS: A=0 B=15 | P=0
+FAIL: A=15 B=15 | P=57 Expected=225
+FAIL: A=9 B=7 | P=135 Expected=63
+FAIL: A=4 B=1 | P=32 Expected=4
+FAIL: A=9 B=3 | P=39 Expected=27
+FAIL: A=13 B=13 | P=149 Expected=169
+FAIL: A=5 B=2 | P=18 Expected=10
+FAIL: A=1 B=13 | P=37 Expected=13
+FAIL: A=6 B=13 | P=66 Expected=78
+FAIL: A=13 B=12 | P=84 Expected=156
+FAIL: A=9 B=6 | P=38 Expected=54
+FAIL: A=5 B=10 | P=38 Expected=50
+FAIL: A=5 B=7 | P=83 Expected=35
+FAIL: A=2 B=15 | P=50 Expected=30
+FAIL: A=2 B=14 | P=48 Expected=28
+FAIL: A=8 B=5 | P=32 Expected=40
+FAIL: A=12 B=13 | P=176 Expected=156
+FAIL: A=13 B=5 | P=97 Expected=65
+FAIL: A=3 B=10 | P=46 Expected=30
+PASS: A=0 B=0 | P=0
+FAIL: A=10 B=13 | P=82 Expected=130
+FAIL: A=6 B=3 | P=82 Expected=18
+FAIL: A=13 B=3 | P=151 Expected=39
+$finish called at time : 270 ns : File "D:/Dadda_multiplier/Dadda_multiplier.srcs/sim_1/new/dadda_mul_tb.v" Line 64

@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2025.2 (64-bit)
+# SW Build 6299465 on Fri Nov 14 19:35:11 GMT 2025
+# IP Build 6300035 on Fri Nov 14 10:48:45 MST 2025
+# SharedData Build 6298862 on Thu Nov 13 04:50:51 MST 2025
+# Start of session at: Wed Mar  4 22:08:39 2026
+# Process ID         : 22676
+# Current directory  : D:/Dadda_multiplier/Dadda_multiplier.runs/synth_1
+# Command line       : vivado.exe -log dadda_mul.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source dadda_mul.tcl
+# Log file           : D:/Dadda_multiplier/Dadda_multiplier.runs/synth_1/dadda_mul.vds
+# Journal file       : D:/Dadda_multiplier/Dadda_multiplier.runs/synth_1\vivado.jou
+# Running On         : VEER
+# Platform           : Windows Server 2016 or Windows 10
+# Operating System   : 26200
+# Processor Detail   : AMD Ryzen 5 7520U with Radeon Graphics         
+# CPU Frequency      : 2795 MHz
+# CPU Physical cores : 4
+# CPU Logical cores  : 8
+# Host memory        : 7778 MB
+# Swap memory        : 14495 MB
+# Total Virtual      : 22274 MB
+# Available Virtual  : 3121 MB
+#-----------------------------------------------------------
+source dadda_mul.tcl -notrace
